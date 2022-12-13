@@ -1,0 +1,44 @@
+.jumbotron {
+    background-image: url(../images/landscape.jpg);
+    background-size: cover;
+    display: flex;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+  }
+
+  .jumboed{
+      color: white;
+      text-align: center;
+      justify-content: center;
+      align-items: center;
+    
+  }
+
+  .welcome{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+  }
+
+  .hero{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+  }
+
+  .footer{
+    display: flex;
+    background-color: lightgrey;
+    padding: 15px;
+    justify-content: center;
+  }
+
+  .center{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+    width: 80%;
+  }
